@@ -1,0 +1,29 @@
+2018-03-27 12:07:50 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 60 - Donor details added successfully:
+ 2018-03-27 12:08:27 ERROR com.capgemini.bank.dao.DemandDraftDAO :: 129 - Closed Connection
+ 2018-03-27 12:09:43 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 122 - Record Not Found
+ 2018-03-27 12:09:50 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 122 - Record Not Found
+ 2018-03-27 12:12:48 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 60 - Donor details added successfully:
+ 2018-03-27 12:13:25 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 117 - Record Found Successfully
+ 2018-03-27 12:25:57 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 60 - Donor details added successfully:
+ 2018-03-27 12:26:25 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 117 - Record Found Successfully
+ 2018-03-27 12:29:45 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 60 - Donor details added successfully:
+ 2018-03-27 12:30:21 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 117 - Record Found Successfully
+ 2018-03-27 12:34:19 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 117 - Record Found Successfully
+ 2018-03-27 12:34:31 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 117 - Record Found Successfully
+ 2018-03-27 13:12:19 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:16:10 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:18:05 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 138 - Record Found Successfully
+ 2018-03-27 13:19:42 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 138 - Record Found Successfully
+ 2018-03-27 13:20:20 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 138 - Record Found Successfully
+ 2018-03-27 13:20:55 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 138 - Record Found Successfully
+ 2018-03-27 13:21:54 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:21:55 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:21:55 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 138 - Record Found Successfully
+ 2018-03-27 13:22:25 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:22:25 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:22:25 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 138 - Record Found Successfully
+ 2018-03-27 13:22:53 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:22:53 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 72 - Donor details added successfully:
+ 2018-03-27 13:22:53 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 138 - Record Found Successfully
+ 2018-03-27 13:24:29 INFO  com.capgemini.bank.dao.DemandDraftDAO :: 143 - Record Not Found
+ 
